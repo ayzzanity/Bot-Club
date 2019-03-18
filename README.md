@@ -85,9 +85,7 @@ Initial Build of the Bot.
 ## v0.1.4
 ```
 * optimized wild mode function and fixes
-
 * changed PlayingWild from while-loop to if-else to eliminate inner looping
-
 * added training cards function
 ```
 
