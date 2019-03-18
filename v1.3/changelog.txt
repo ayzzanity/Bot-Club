@@ -1,0 +1,25 @@
+***v0.1.2Wild ==> v0.1.3aRTG***
+
+*reorganied codes with #Region to make it clean to look
+*reworked GUI design
+*updated menu function to work with new GUI
+*this version works for RTG and not Wild
+*merged 'playing rtg'/wild with 'drafting' using if-else to eliminate nested looping
+*added pause/stop game functions
+*optimized control drag function
+
+***v0.1.3aRTG ==> v0.1.3bRTG***
+
+*optimized RTG function
+
+***v0.1.3bRTG ==> v0.1.3bWild***
+
+*alt version of bRTG for Wild Mode
+*hotkey adjustments, disabled pause game and hide game for the meantime
+*minor gui changes
+*menu function changes for gui
+
+***v0.1.3bWild ==> v0.1.3c***
+
+*RTG and Wild Mode merged into one script
+*optimized wild mode function and fixes

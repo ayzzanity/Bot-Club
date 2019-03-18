@@ -1,0 +1,3 @@
+Initial Build of the Bot.
+
+*Working Wild Mode

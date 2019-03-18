@@ -1,0 +1,5 @@
+**v0.1.1Wild ==> v0.1.2Wild**
+
+*removed hide game for the meantime
+*gui adjustments
+*wild game function optimization and fixes

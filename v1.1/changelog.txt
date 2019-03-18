@@ -1,0 +1,16 @@
+**v0.1 ===> v0.1.1**
+
+*added dragging controls to find wild mode
+*added hide game function
+*msgbox to notify starting
+
+**v0.1 ===> v0.1.1Wild**
+
+*added GUI
+*optimized by making menu function
+*optimized by making wild mode function
+*added set status function for gui
+
+**v0.1 ===> v0.1.1RD**
+
+*alt version of v0.1.1Wild for Ring Domination
