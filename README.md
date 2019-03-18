@@ -3,104 +3,104 @@ WWE Supercard's Bot Club
 
 =============FULL CHANGELOG=============
 
-#v.01
+## v.01
 
 Initial Build of the Bot.
 
-*Working Wild Mode
+* Working Wild Mode
 
-#v0.1.1
+## v0.1.1
 
-*added dragging controls to find wild mode
+* added dragging controls to find wild mode
 
-*added hide game function
+* added hide game function
 
-*msgbox to notify starting
-
-
-#v0.1.1 Wild
-
-*added GUI
-
-*optimized by making menu function
-
-*optimized by making wild mode function
-
-*added set status function for gui
+* msgbox to notify starting
 
 
-#v0.1.1 RD
+## v0.1.1 Wild
 
-*alt version of v0.1.1Wild for Ring Domination
+* added GUI
 
+* optimized by making menu function
 
-#v0.1.2 Wild
+* optimized by making wild mode function
 
-*removed hide game for the meantime
-
-*gui adjustments
-
-*wild game function optimization and fixes
+* added set status function for gui
 
 
-#v0.1.3 RTG
+## v0.1.1 RD
 
-*reorganied codes with #Region to make it clean to look
-
-*reworked GUI design
-
-*updated menu function to work with new GUI
-
-*this version works for RTG and not Wild
-
-*merged 'playing rtg'/wild with 'drafting' using if-else to eliminate nested looping
-
-*added pause/stop game functions
-
-*optimized control drag function
+* alt version of v0.1.1Wild for Ring Domination
 
 
-#v0.1.3b RTG
+## v0.1.2 Wild
 
-*optimized RTG function
+* removed hide game for the meantime
 
+* gui adjustments
 
-#v0.1.3b Wild
-
-*alt version of bRTG for Wild Mode
-
-*hotkey adjustments, disabled pause game and hide game for the meantime
-
-*minor gui changes
-
-*menu function changes for gui
+* wild game function optimization and fixes
 
 
-#v0.1.3c
+## v0.1.3 RTG
 
-*RTG and Wild Mode merged into one script
+* reorganied codes with #Region to make it clean to look
 
-*optimized wild mode function and fixes
+* reworked GUI design
 
-#v0.1.4
+* updated menu function to work with new GUI
 
-*optimized wild mode function and fixes
+* this version works for RTG and not Wild
 
-*changed PlayingWild from while-loop to if-else to eliminate inner looping
+* merged 'playing rtg'/wild with 'drafting' using if-else to eliminate nested looping
 
-*added training cards function
+* added pause/stop game functions
 
-
-#v0.1.4b
-
-*tba
+* optimized control drag function
 
 
-#v0.1.4c
+## v0.1.3b RTG
 
-*tba
+* optimized RTG function
 
 
-#v0.1.4d
+## v0.1.3b Wild
 
-*tba
+* alt version of bRTG for Wild Mode
+
+* hotkey adjustments, disabled pause game and hide game for the meantime
+
+* minor gui changes
+
+* menu function changes for gui
+
+
+## v0.1.3c
+
+* RTG and Wild Mode merged into one script
+
+* optimized wild mode function and fixes
+
+## v0.1.4
+
+* optimized wild mode function and fixes
+
+* changed PlayingWild from while-loop to if-else to eliminate inner looping
+
+* added training cards function
+
+
+### v0.1.4b
+
+* tba
+
+
+### v0.1.4c
+
+* tba
+
+
+### v0.1.4d
+
+* tba
