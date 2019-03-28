@@ -69,21 +69,35 @@ Initial Build of the Bot.
 ### v1.4
 ```
 * optimized wild mode function and fixes
-* changed PlayingWild from while-loop to if-else to eliminate inner looping
+* changed PlayingWild from while-loop to if-else for optimized flow
 * added training cards function
 ```
 
 #### v1.4b
 ```
-* tba
+* updated rtg to similar flow with wild mode
+* added difficulty choice to rtg
+* training cards function now fully working
 ```
 
 #### v1.4c
 ```
-* tba
+* fixed training cards function not going back to menu after training
+* fixed being stuck on catalog when train cards start
 ```
 
 #### v1.4d
 ```
-* tba
+* fixed wild mode getting stuck when energy hits max 20/20
+```
+
+#### v1.5
+```
+* bot has been renamed to "Bot Club"
+* added ring domination support
+```
+
+#### v1.6
+```
+* completely reworked to optimize it's functions
 ```
